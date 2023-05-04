@@ -20,4 +20,4 @@
 
 **Time took to complete this project**: 1 Hours
 
-## [**Live-link**]() of the project
+## [**Live-link**](https://palindrome-checker-game-program.netlify.app/) of the project
